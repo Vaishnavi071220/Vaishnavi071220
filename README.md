@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning various technologies 
 - 💞️ I’m looking to collaborate on variety of Data Science projects, jobs and internships 
-- 📫 How to reach me: @Vaishnavi071220, www.linkedin.com/in/vaishnavi-kukkala-6b987a193
+- 📫 How to reach me: [@Vaishnavi071220](https://github.com/Vaishnavi071220), www.linkedin.com/in/vaishnavi-kukkala-6b987a193 , kukkalavaishnavi67@gmail.com
 - 😄 Pronouns: She/her 
   
 
